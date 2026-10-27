@@ -1,16 +1,16 @@
-## Hi there 👋
+# Anas Ouazine
 
-<!--
-**ouazineanas03/ouazineanas03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics undergraduate at the University of Milano-Bicocca, Milan.
+I am building a portfolio in computational physics and data analysis.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Numerical methods for physics (ODE solvers, convergence analysis)
+- Python for scientific computing: NumPy, SciPy, Matplotlib
+- Statistics and data analysis for lab data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- Python scientific stack, Git workflow, testing and CI
+- SQL and machine learning fundamentals
+
+## Contact
+- GitHub: [@ouazineanas03](https://github.com/ouazineanas03)
